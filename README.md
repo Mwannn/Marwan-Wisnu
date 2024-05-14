@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](---)**
+💬 Ask me about *Laravel,network, aws... or anything [here](---)**
 
  </div>
  
