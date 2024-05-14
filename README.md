@@ -12,7 +12,7 @@
  
  🔭 I'am currently studying at "smkn 26 jakarta**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Java, Laravel, AWS**
 
 💬 Ask me about *Laravel,network, aws... or anything [here](https://github.com/Mwannn)**
 
