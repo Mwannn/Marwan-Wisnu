@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I'am currently studying at "smkn 26 jakarta**
+ 🔭 I'am currently studying at "Smkn 26 Jakarta**
  
  🌱 I’m currently learning **Java, Laravel, AWS**
 
