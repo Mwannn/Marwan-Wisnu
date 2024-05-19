@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marwan+Wisnu!;" />
 </h1>
 
-<h3 align="center">A passionate Web, and cloud computing developer from Indonesia👋</h3>
+<h3 align="center">A PASSIONATE WEB, AND CLOUD COMPUTING DEVELOPER FROM INDONESIA👋</h3>
 
 <br/>
 
@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,laravel,flutter,java,nextjs,mysql" /><br>
 </div>
 
