@@ -25,6 +25,7 @@
   <a href="https://www.linkedin.com/in/marwan-wisnu-95a850282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a>  <a href="https://www.instagram.com/mwannn_n?igsh=M3k0eGpiMHU4bHJw"></a>
 </div>
 
  <hr/>
