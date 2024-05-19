@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/mwannn_n?igsh=M3k0eGpiMHU4bHJw">
-  <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=pink" target="_blank" />
   
     
 </div>
